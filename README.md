@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This project aims to analyze the critical supply chain issue related to the stocking of perishable grocery items at Gala Groceries. The main challenge lies in balancing inventory levels to avoid both overstocking and understocking. The objective is to identify key factors and provide actionable insights to optimize their inventory management practices, reduce waste, and improve customer satisfaction.
+This project aims to analyze the critical supply chain issue related to the stocking of perishable grocery items at Gala Groceries in USA. The main challenge lies in balancing inventory levels to avoid both overstocking and understocking. The objective is to identify key factors and provide actionable insights to optimize their inventory management practices, reduce waste, and improve customer satisfaction.
 
 ### Data Sources
 
