@@ -1,4 +1,4 @@
-# Sales Data Analysis
+# Gala Sales Data Analysis
 
 ### Project Overview
 
