@@ -6,7 +6,7 @@ This project aims to analyze the critical supply chain issue related to the stoc
 
 ### Data Sources
 
-- Dataset: This dataset, provided by `Cognizant Artificial Intelligence job simulation` Program through `Forage`. The dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each transaction such as product details, customer type, price, quantity, total cost, and payment method at Gala Groceries in USA.
+- Dataset: This dataset, provided by `Cognizant Artificial Intelligence Job Simulation` program through `Forage`. The dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each transaction such as product details, customer type, price, quantity, total cost, and payment method at Gala Groceries in USA.
 
 #### Dataset - `sales_data.csv`
 
