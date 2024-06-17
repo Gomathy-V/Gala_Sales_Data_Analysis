@@ -6,9 +6,9 @@ This project aims to analyze the critical supply chain issue related to the stoc
 
 ### Data Sources
 
-- Dataset: The dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each transaction such as product details, customer type, price, quantity, total cost, and payment method at Gala Groceries.
+- Dataset: This dataset, provided by `Cognizant Artificial Intelligence job simulation` Program through `Forage`. The dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each transaction such as product details, customer type, price, quantity, total cost, and payment method at Gala Groceries.
 
-#### Dataset - sales_data.csv
+#### Dataset - `sales_data.csv`
 
 |Column Name|Description|
 |-----------|-----------|
@@ -56,7 +56,7 @@ This project aims to analyze the critical supply chain issue related to the stoc
 - Customers at a grocery store typically make numerous low-value transactions and occasionally make a transaction of high value.
 - Fruits and vegetables dominate the purchase patterns, followed by various food categories like packaged foods and baked goods. 
 - Cash is the preferred payment method, while the other payment types (credit card, e-wallet, and debit card) have fairly similar usage frequencies.
--11 AM, 4 PM, and 6 PM are peak times for transactions, while 1 PM, 3 PM, and 5 PM are the quieter periods.
+- 11 AM, 4 PM, and 6 PM are peak times for transactions, while 1 PM, 3 PM, and 5 PM are the quieter periods.
 
 ### Recommendations
 
